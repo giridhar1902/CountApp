@@ -1,0 +1,25 @@
+#btnContainer{
+    text-align: center;
+    
+}
+
+#Count{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+
+}
+
+
+.button{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: aqua;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+button:hover{
+    background-color: aquamarine;
+}
